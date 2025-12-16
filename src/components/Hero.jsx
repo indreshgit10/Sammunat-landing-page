@@ -1,12 +1,12 @@
 const Hero = () => {
   return (
     <section className="hero">
-      <h1>Building Modern Web Experiences</h1>
+      <h1>Building Modern Web Solutions</h1>
       <p>
-        We help businesses grow with high-quality web development
-        and modern UI solutions.
+        Sammunat helps businesses grow by delivering fast,
+        scalable and user-friendly web applications.
       </p>
-      <button>Get Started</button>
+      <button className="primary-btn">Get Started</button>
     </section>
   );
 };

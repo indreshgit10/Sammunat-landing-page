@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© 2025 Sammunat LLC. All rights reserved.</p>
+      <p>© 2025 Sammunat. All rights reserved.</p>
     </footer>
   );
 };

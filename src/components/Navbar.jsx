@@ -4,7 +4,7 @@ const Navbar = () => {
       <h2 className="logo">Sammunat</h2>
       <ul className="nav-links">
         <li>Home</li>
-        <li>Features</li>
+        <li>About</li>
         <li>Contact</li>
       </ul>
     </nav>
