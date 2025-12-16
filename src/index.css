@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 40px;
+  background: #0f172a;
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.hero {
+  padding: 80px 40px;
+  text-align: center;
+}
+
+.hero button {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.feature-card {
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: #f1f5f9;
+}
